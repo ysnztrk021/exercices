@@ -1,4 +1,3 @@
-
 # # -------------------------------VARIABLES---------------------------------
 # # Ne modifiez que les lignes commençant par ICI
 # # Créez une variable nommée number et assignez-lui la valeur 10
